@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EconomyBot", "EconomyBot\EconomyBot.pyproj", "{3655FFAB-3821-4082-9B24-CA6416FA8B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3655FFAB-3821-4082-9B24-CA6416FA8B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3655FFAB-3821-4082-9B24-CA6416FA8B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB26FD46-2C50-4CD8-91B2-F19DA31C1650}
+	EndGlobalSection
+EndGlobal
